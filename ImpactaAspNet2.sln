@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Repositorios.Sq
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GatewayPagamento", "GatewayPagamento", "{559227C7-51C3-4A09-B29D-864F92EBB872}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Mvc", "Marketplace.Mvc\Marketplace.Mvc.csproj", "{FEAD7077-6A3E-465C-8FFC-9BA6A1490636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,12 +27,17 @@ Global
 		{A5E1BE65-420F-4B30-B0E4-C84CA0D71666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5E1BE65-420F-4B30-B0E4-C84CA0D71666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5E1BE65-420F-4B30-B0E4-C84CA0D71666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAD7077-6A3E-465C-8FFC-9BA6A1490636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAD7077-6A3E-465C-8FFC-9BA6A1490636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAD7077-6A3E-465C-8FFC-9BA6A1490636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAD7077-6A3E-465C-8FFC-9BA6A1490636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A5E1BE65-420F-4B30-B0E4-C84CA0D71666} = {36EAB85E-1174-46AF-9A00-D2FAE3223A08}
+		{FEAD7077-6A3E-465C-8FFC-9BA6A1490636} = {36EAB85E-1174-46AF-9A00-D2FAE3223A08}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6FA83DF7-CF6F-4A1B-8BCF-39BC201844A9}
